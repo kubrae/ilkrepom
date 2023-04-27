@@ -1,4 +1,4 @@
 # ilkrepom
-git ersi deneme repom
+git dersi deneme repom
 
 ### Merhaba, repoma hosgeldiniz:)
